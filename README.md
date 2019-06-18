@@ -1,3 +1,5 @@
+`Github` repo is a mirror of `Gitlab` repo
+
 ## Extract BQ Schema from JSON Object
 This is a tool to create Google Big Query table schema from JSON object. It can be used to generate BQ schema for your tables from JSON object.
 
