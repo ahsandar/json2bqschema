@@ -1,0 +1,10 @@
+version: '3.7'
+
+services:
+  app:
+    build: .
+    container_name: json2bqschema
+    stdin_open: true
+    tty: true
+    volumes:
+      - '.:/src/json2bqshcema'
